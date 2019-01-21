@@ -85,5 +85,7 @@
 		<module>subscription-service</module>
 		<module>user-service</module>
 		<module>config-service</module>
+		<module>notification-service</module>
+		<module>zuul-service</module>
 	</modules>
 </project>
