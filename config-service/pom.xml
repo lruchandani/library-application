@@ -6,7 +6,6 @@
 		<groupId>com.lalit.library</groupId>
 		<artifactId>library-app</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath></relativePath>
 	</parent>
 	<groupId>com.lalit.library</groupId>
 	<artifactId>config-service</artifactId>
